@@ -1,0 +1,22 @@
+html {
+
+
+}
+
+body{
+  color: rgb(0,0,0);
+
+    text-align: center;
+   background-image: url(https://orig00.deviantart.net/9746/f/2010/253/0/f/kingdom_hearts_psp_02_by_mirublack-d2ygvt3.jpg);
+}
+
+div{
+  display: inline-block;
+}
+
+h2{background-color: gold;
+
+}
+h1{
+  background-color: gold;
+}

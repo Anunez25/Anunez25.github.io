@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Kingdom Hearts 1 Profiles</title>
+    <h2>Home</h2>
+    <h2>Profiles</h2>
+    <h2>Weapons/Costumes</h2>
+  </head>
+  <body>
+    <h1> kingdom hearts 1 profiles, So far this only has main characters from Kingdom Hearts 1 </h1>
+
+    <div>
+    <h2>Sora</h2>
+    <img src="https://vignette.wikia.nocookie.net/kingdomhearts/images/5/59/Sora_%28Art%29_KH.png/revision/latest?cb=20121114141242" title="source: imgur.com" width=200/>
+    </div>
+
+    <div>
+    <h2>Riku</h2>
+    <img src="https://vignette.wikia.nocookie.net/villains/images/4/4a/Riku_%28Art%29_KHCOM.png/revision/latest?cb=20171130002837" title="source: imgur.com" width=400/>
+    </div>
+
+    <div>
+    <h2>Kiri</h2>
+    <img src="https://i.imgur.com/Z3iQyXS.png" title="source: imgur.com" width=200/>
+    </div>
+
+    <div>
+    <h2>Goofy</h2>
+    <img src="https://images.khinsider.com/KINGDOM%20HEARTS%20HD%20ReMIX/Characters/Goofy.png" title="source: imgur.com" width=300/>
+    </div>
+
+    <div>
+    <h2>Donald</h2>
+    <img src="https://vignette.wikia.nocookie.net/kingdomhearts/images/7/7f/Donald_%28Art%29_KH.png/revision/latest?cb=20121116135009" title="source: imgur.com" width=200/>
+    </div>
+
+  </body>
+</html>
